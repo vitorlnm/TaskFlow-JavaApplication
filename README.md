@@ -8,7 +8,8 @@
 The "Taskflow" project was created by Vitor Gabriel and Renan Bernardo, from the TDS231-N class in the year 2024. It is an application that facilitates the management of daily tasks, being able to add, edit or delete a specific task with a schedule of notification of your day.
 
 ## <img width=2.4% src="https://skillicons.dev/icons?i=mysql" />ﾠDatabase file
-- [Click here to access Database.]()
+- [Click here to access Data Model (Logical and Conceitual).](https://heyzine.com/flip-book/da0b1b4d38.html)
+- [Click here to access Data Structure.](https://heyzine.com/flip-book/d07f417901.html)
 
 <hr>
 
@@ -18,6 +19,6 @@ The "Taskflow" project was created by Vitor Gabriel and Renan Bernardo, from the
 <hr>
 
 ## 📃 Taskflow PDF - Documentation
-- [Click here to access the Document.](https://heyzine.com/flip-book/7df609645d.html#page/1)
+- [Click here to access the Document.](https://heyzine.com/flip-book/6c2b439266.html#page/1)
 
 <hr>
